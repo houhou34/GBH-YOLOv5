@@ -11,7 +11,7 @@ This project is based on the improved and optimized model of YOLOv5s, and its ta
 ## Required environment
 
 Pytorch == 1.8.1  
-Python == 3.8  
+python == 3.8  
 Cuda == 11.1
   
 ### Install the project environment
