@@ -15,7 +15,7 @@ Python == 3.8
 Cuda == 11.1
 ### Install the project environment
 ```python
-pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install -r requirements.txt
 ```
 
 ### Check whether the dependent environment is normal.
