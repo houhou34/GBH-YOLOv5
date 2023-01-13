@@ -22,7 +22,6 @@ pip install -r requirements.txt
 ```
 
 ### Check whether the dependent environment is normal.
-Execute in the GBH-YOLOv5 folder:
 ```python
 python detect.py --source ./data/images/ --weights weights/yolov5s.pt
 ```
