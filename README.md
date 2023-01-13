@@ -46,5 +46,6 @@ python detect.py --source ./testfiles/img1.jpg --weights runs/train/exp/weights/
 
 ## Acknowledgements
 https://github.com/ultralytics/yolov5
+https://github.com/robintzeng/Pytorch-CSPNet
 
 
