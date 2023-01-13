@@ -30,7 +30,7 @@ python detect.py --source ./data/images/ --weights weights/yolov5s.pt
 
 ### Data preparation
 Download PV Multi-Defect images (train, val) and labels. Link: https://github.com/houhou34/PV-Multi-Defect-Datasets.  
-Download weights.   
+Download weights. Link: https://pan.baidu.com/s/1ApCScpr1CZ_AeVJH7crgCw Extraction code: lmn8   
 
 ### Start training
 ```python
