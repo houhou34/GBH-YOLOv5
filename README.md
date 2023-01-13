@@ -29,7 +29,8 @@ python detect.py --source ./data/images/ --weights weights/yolov5s.pt
 ## Training
 
 ### Data preparation
-Download PV Multi-Defect images (train, val) and labels.  
+Download PV Multi-Defect images (train, val) and labels. Link: https://github.com/houhou34/PV- 71
+Multi-Defect-Datasets.  
 Download weights.   
 
 ### Start training
