@@ -14,7 +14,7 @@ Pytorch == 1.8.1
 Python == 3.8  
 Cuda == 11.1
   
-Install the project environment
+### Install the project environment
 ```python
 pip install -r requirements.txt
 ```
@@ -31,7 +31,7 @@ python detect.py --source ./data/images/ --weights weights/yolov5s.pt
 Download PV Multi-Defect images (train, val) and labels.  
 Download weights.   
 
-Start training
+### Start training
 ```python
 python train.py
 ```
